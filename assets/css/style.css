@@ -24,20 +24,19 @@ body {
 
 .content {
     background-color: hsl(0, 0%, 12%);
-    width: 30%;
-    height: 520px;
+    width: 35%;
+    height: 530px;
     border-radius: 10px;
-    
 }
 
 .pessoa {
     text-align: center;
     margin-top: 25px;
-    height: 220px;
+    height: 230px;
 }
 
 img{
-    border-radius: 50px;
+    border-radius: 100px;
     width: 20%;
 }
 

@@ -1,0 +1,49 @@
+@media(max-width: 375px) {
+    .content {
+        width: 90%;
+        margin: 0;
+    }
+
+    img {
+        width: 30%;
+    }
+}
+
+@media(max-width: 480px) {
+    .content {
+        width: 80%;
+        height: 400px;
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+
+    .pessoa {
+        height: 150px;
+    }
+}
+
+@media(max-width: 768px) {
+    .content {
+        width: 45%;
+        height: 520px;
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+
+    .pessoa {
+        height: 220px;
+    }
+}
+
+@media(min-width: 1440px) {
+    .content {
+        width: 30%;
+        height: 530px;
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+
+    .pessoa {
+        height: 230px;
+    }
+}

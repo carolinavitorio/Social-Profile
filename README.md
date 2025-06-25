@@ -55,8 +55,8 @@ Este projeto foi construído como parte do desafio [Social Links Profile](https:
 
 ## 🔗 Acesse o Projeto
 
-- 🔗 [Visualizar Online (GitHub Pages)](https://carolinavitorio.github.io/social-profile/)
-- 📂 [Repositório no GitHub](https://github.com/carolinavitorio/Social-Profile)
+- 🔗 [Visualizar Online (GitHub Pages)](https://carolinavitorio.github.io/Social-Profile/)
+- 📂 [Repositório no GitHub](https://github.com/carolinavitorio/Social-Profile.git)
 
 ---
 
